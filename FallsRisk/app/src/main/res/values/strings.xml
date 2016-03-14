@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">FallsRisk</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="Tinetti_Balance_question">
+    <item>Sitting Balance</item>
+    <item>Rises from chair</item>
+    <item>Attempts to rise from chair</item>
+    <item>Immediate Standing Balance</item>
+    <item>Standing Balance</item>
+    <item>Nudged (subject at max position with feet as close together as possible, examiner pushes lightly on subject\s sternum with palm of hand 3 times</item>
+    <item>Eyes Closed (at max position as previous assessment</item>
+    <item>Turning 360 Degrees</item>
+    <item>Sitting Down</item>
+    </string-array>
+
+    <string-array name="Tinetti_Balance_answerA">
+    <item>Leans or slides in chair</item>
+    <item>Unable without help</item>
+    <item>Unable without help</item>
+    <item>Unsteady (swaggers, moves feet, trunk sways)</item>
+    <item>Unsteady</item>
+    <item>Begins to fall</item>
+    <item>Unsteady</item>
+    <item>Discontinuous steps</item>
+    <item>Unsafe</item>
+    </string-array>
+
+    <string-array name="Tinetti_Balance_answerB">
+    <item>Steady, safe</item>
+    <item>Able, uses arms to help up</item>
+    <item>Able, requires more then one step</item>
+    <item>Steady but uses walker or other support</item>
+    <item>Steady but wide stance (heels 4 inches apart), and uses can or other support</item>
+    <item>Staggers, grabs, catches self</item>
+    <item>Steady</item>
+    <item>Continuous steps</item>
+    <item>Uses arms or not a smooth motion</item>
+    </string-array>
+
+    <string-array name="Tinetti_Balance_answerC">
+    <item>null</item>
+    <item>Able without using arms</item>
+    <item>Able to rise in 1 attempt</item>
+    <item>Steady without walker or other support</item>
+    <item>Narrow stance without support</item>
+    <item>Steady</item>
+    <item>null</item>
+    <item>Unsteady (grabs, swaggers)</item>
+    <item>Uses arms or not a smooth motion</item>
+    </string-array>
+
+    <string-array name="Tinetti_Balance_answerD">
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>Steady</item>
+    <item>Safe, smooth motion</item>
+    </string-array>
+
+    <string-array name="Tinetti_GAIT_question">
+    <item>Initiation of GAIT</item>
+    <item>Step Length and Height</item>
+    <item>Step Symmetry</item>
+    <item>Step Continuity</item>
+    <item>Path (estimated in relation to floor tiles, 12 inch diameter. Observe excursion of 1 foot over about 10 feet)</item>
+    <item>Trunk</item>
+    <item>Walking Stance</item>
+    </string-array>
+
+    <string-array name="Tinetti_GAIT_answerA">
+    <item>Any hesitancy or multiple attempts to start</item>
+    <item>RIGHT swing foot does not pass left stance foot with step</item>
+    <item>RIGHT AND LEFT step length not equal (estimate)</item>
+    <item>Stopping or discontinuity between steps</item>
+    <item>Marked deviation</item>
+    <item>Marked sway or uses walking aid</item>
+    <item>Heels apart</item>
+    </string-array>
+    
+    <string-array name="Tinetti_GAIT_answerB">
+    <item>No hesitancy</item>
+    <item>RIGHT foot passes left stance foot</item>
+    <item>RIGHT AND LEFT step length not equal (estimate)</item>
+    <item>Steps appear to continue</item>
+    <item>Mild/moderate deviation or uses walking aid</item>
+    <item>No sway - but flexion of knees or back or spread arms out while walking</item>
+    <item>No sway, no flexion, no use of arms, and no use of walking aid</item>
+    <item>Heels almost touching while walking</item>
+    </string-array>
+
+    <string-array name="Tinetti_GAIT_answerC">
+    <item>null</item>
+    <item>RIGHT foot passes left stance foot</item>
+    <item>null</item>
+    <item>null</item>
+    <item>Straight without walking aid</item>
+    <item>No sway, no flexion, no use of arms, and no use of walking aid</item>
+    <item>null</item>
+    </string-array>
+
+    <string-array name="Tinetti_GAIT_answerD">
+    <item>null</item>
+    <item>RIGHT foot completely clears floor</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    <item>null</item>
+    </string-array>
+
+    <string-array name="FRAT_Question">
+    <item>Has the patient had any falls?</item>
+    <item>Is the patient taking any medication (Sedatives, Anti-Depressants, Anti-Parkinsons, Diurectics, Anti-hypertensives, hypnotics)</item>
+    <item>Does the patient show signs of any psychological issues (Anxiexy, Depression, Reduction in Cooperation, Inisght or Judgement esp mobility judgement)</item>
+    <item>Cognitive Status", "Score"</item>
+    <item>Recent change in functional status and / or medications affecting safe mobility (or anticipated)</item>
+    <item>Does the patient experience experience dizziness / postural hypotension</item>
+    </string-array>
+
+
+    <string-array name="FRAT_AnswerA">
+    <item>None in last 12 months</item>
+    <item>Not taking any of these</item>
+    <item>Does not appear to have any of these</item>
+    <item>Intact</item>
+    <item>Yes</item>
+    <item>Yes</item>
+    </string-array>
+
+    <string-array name="FRAT_AnswerB">
+    <item>One or more between 3 and 12 months ago</item>
+    <item>Taking 1</item>
+    <item>Appears mildly affected by one or more</item>
+    <item>Mildly impaired</item>
+    <item>No</item>
+    <item>No</item>
+    </string-array>
+
+    <string-array name="FRAT_AnswerC">
+    <item>One or more in last 3 months</item>
+    <item>Taking 2</item>
+    <item>Appears moderately affected by one or more</item>
+    <item>Moderately impaired</item>
+    <item>null</item>
+    <item>null</item>
+    </string-array>
+
+    <string-array name="FRAT_AnswerD">
+    <item>One or more in last 3 months whilst inpatient / resident</item>
+    <item>Taking more than 2</item>
+    <item>Appears affected severely by one or more</item>
+    <item>Severely impaired</item>
+    <item>null</item>
+    <item>null</item>
+    </string-array>
+
+    <string-array name="Morse_Question">
+    <item>History of falling; immediate or within 3 months</item>
+    <item>Secondary diagnosis</item>
+    <item>Ambulatory aid</item>
+    <item>IV/ Heparin Lock</item>
+    <item>Gait/Transferring:</item>
+    <item>Mental status</item>
+    </string-array>
+
+    <string-array name="Morse_AnswerA">
+    <item>No</item>
+    <item>No</item>
+    <item>Bed rest/nurse assist</item>
+    <item>No</item>
+    <item>Normal</item>
+    <item>Oriented to own ability</item>
+    </string-array>
+
+    <string-array name="Morse_AnswerB">
+    <item>Yes</item>
+    <item>Yes</item>
+    <item>Crutches/cane/walker</item>
+    <item>Yes</item>
+    <item>Weak</item>
+    <item>Forgets limitations</item>
+    </string-array>
+
+    <string-array name="Morse_AnswerC">
+    <item>null</item>
+    <item>null</item>
+    <item>Furniture</item>
+    <item>null</item>
+    <item>Impaired</item>
+    <item>null</item>
+    </string-array>
+
+    <string-array name="Efficacy_Question">
+    <item>Cleaning the house (e.g. sweep, vacuum, dust)</item>
+    <item>Getting dressed or undressed</item>
+    <item>Preparing simple meals</item>
+    <item>Taking a bath or shower</item>
+    <item>Going to the shop</item>
+    <item>Getting in or out of a chair</item>
+    <item>Going up or down a stairs</item>
+    <item>Walking around in the neighbourhood</item>
+    <item>Reaching for something above your head or on the ground</item>
+    <item>Going to answer the telephone before it stops ringing</item>
+    <item>Walking on a slippery surface (e.g. wet or icy)</item>
+    <item>Visiting a friend or relative</item>
+    <item>Walking on an uneven surface (e.g. rocky ground, poorly maintained pavement)</item>
+    <item>Walking up or down a slope</item>
+    <item>Going out to a social event (e.g. religious service, family gathering, or club meeting)</item>
+    </string-array>
+
+    <string-array name="Efficacy_Answer">
+    <item>Not at all concerned</item>
+    <item>Somewhat concerned</item>
+    <item>Fairly concerned</item>
+    <item>Very concerned</item>
+    </string-array>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="title_activity_choose_scale">ChooseScale</string>
+    <string name="title_activity_frat">FRAT</string>
+    <string name="title_activity_efficacy">Efficacy</string>
+    <string name="title_activity_tinetti">Tinetti</string>
+
+</resources>
